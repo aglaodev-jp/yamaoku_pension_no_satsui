@@ -2,8 +2,8 @@
 
 本リポジトリでは、ゲームの **ソースコード** と **実行ファイル** を公開しています。  
 
-- ゲームのマニュアル：[README_PLAY.md](./README_PLAY.md)  
-- 実行ファイルのダウンロード：[Releases](../../releases) 
+- ゲームのマニュアル：[README_Game.md](./README_Game.md)  
+- 実行ファイルのダウンロード：[Releases](https://github.com/AglaoDev-jp/yamaoku_pension_no_satsui/releases/download/v1/yamaoku_pension_no_satsui_v1-1.0-win.zip) 
 
 ---
 
@@ -13,8 +13,8 @@
 ## 使用モデル
 - **GPT-5.3**  
 - **GPT-5.4（Auto-thinking含む）**  
-- **GPT-5.5** 
-（ChatGPT Plus）
+- **GPT-5.5**   
+（ChatGPT Plus）  
 
 ---
 

@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "target_alpha": 250,
+  "feather": 1.5,
+  "use_tint": true,
+  "color_preset": "紫",
+  "color_strength": 250,
+  "add_grain": true,
+  "grain_strength": 18,
+  "add_texture": false,
+  "texture_path": "",
+  "add_outline": true,
+  "outline_thickness": 3
+}

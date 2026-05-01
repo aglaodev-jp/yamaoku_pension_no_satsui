@@ -61,7 +61,7 @@ label input_names:
 # [heroine['first']]
 # "「[player['first']]くん、運転おつかれさま」\n"
 
-# フルネーム（今回は未使用でした）
+# フルネーム
 # [player['full']]
 # [heroine['full']
 

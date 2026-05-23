@@ -5,6 +5,11 @@
 - ゲームのマニュアル：[README_Game.md](./README_Game.md)  
 - 実行ファイルのダウンロード：[Releases](https://github.com/AglaoDev-jp/yamaoku_pension_no_satsui/releases/download/v1/yamaoku_pension_no_satsui_v1-1.0-win.zip) 
 
+## ガイドライン
+
+ゲームプレイ・配信・二次創作等については、
+[GUIDELINE.md](./GUIDELINE.md)   をご確認ください。
+
 ---
 
 本プロジェクトの制作にあたり、OpenAIの対話型AI「ChatGPT」のサポートを活用し、  
@@ -214,7 +219,7 @@ Ren’Py の標準的な配布機構を用いて同梱されています。
 ---
 
 
-### Ren’Py デフォルトからの変更点 
+### Ren’Py 初期テンプレートからの変更点 
 
 ### 魔人の棲む塔 Ren’Py Remake v1 の変更点 
 

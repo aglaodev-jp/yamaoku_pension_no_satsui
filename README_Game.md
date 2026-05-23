@@ -21,7 +21,12 @@
 
 実行ファイルを逆アセンブル、逆コンパイル、リバースエンジニアリングなどを行い、内部のリソース（音源、画像、フォント、スクリプト、シナリオなど）を取り出す行為を**固く禁止**します。  
 
-※　画像、スクリプト、シナリオは、**オープンソース**です。詳しくは
+※　画像、スクリプト、シナリオは、**オープンソース**です。詳しくは[https://github.com/AglaoDev-jp/yamaoku_pension_no_satsui/tree/main](https://github.com/AglaoDev-jp/yamaoku_pension_no_satsui/tree/main)
+
+## ガイドライン
+
+ゲームプレイ・配信・二次創作等については、
+[GUIDELINE.md](./GUIDELINE.md)   をご確認ください。
 
 ---
 

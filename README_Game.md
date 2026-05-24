@@ -23,6 +23,8 @@
 
 ※　画像、スクリプト、シナリオは、**オープンソース**です。詳しくは[https://github.com/AglaoDev-jp/yamaoku_pension_no_satsui/tree/main](https://github.com/AglaoDev-jp/yamaoku_pension_no_satsui/tree/main)
 
+* 本作品はフィクションです。実在の人物・団体・名称・事件とは一切関係ありません。 
+
 ## ガイドライン
 
 ゲームプレイ・配信・二次創作等については、
